@@ -1,0 +1,21 @@
+name: sustainable_living_app
+description: A Flutter app for sustainable living assistance
+version: 1.0.0
+
+# Define the version of the Flutter SDK required for your app
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+# Specify the dependencies required for your app
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  http: ^0.13.3  # Add HTTP package for making HTTP requests
+
+# Define the assets used in your app (e.g., images, fonts)
+flutter:
+  assets:
+    - C:\Users\91967\Desktop\living app\sustainable_living_app\assets\images\background.jpg # Add the path to your image file
+    - assets/fonts/

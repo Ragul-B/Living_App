@@ -13,11 +13,7 @@ The Sustainable Living App is a mobile application designed to empower users to 
 ## Output Images
 Here are some screenshots of the Sustainable Living App:
 
-![Screenshot 1](https://example.com/screenshots/screenshot1.png)
-*Caption for Screenshot 1*
-
-![Screenshot 2](https://example.com/screenshots/screenshot2.png)
-*Caption for Screenshot 2*
+<img src="outputs/output1.png" alt="Screenshot 1" width="200" />  <img src="outputs/output2.png" alt="Screenshot 1" width="200" />   <img src="outputs/output3.png" alt="Screenshot 1" width="200" />       <img src="outputs/output4.png" alt="Screenshot 1" width="200" />
 
 
 ## Technologies Used
@@ -36,8 +32,5 @@ We welcome contributions to the Sustainable Living App! If you'd like to contrib
 6. Push to the branch (`git push origin feature/improvement`).
 7. Create a new Pull Request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
-For questions or support, please contact us at your.email@example.com.
+For questions or support, please contact us at <a href="mailto:boopathiragul2003@gmail.com">Mail Me</a>.
